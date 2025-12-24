@@ -1,2 +1,3 @@
 # Document-Intelligence-ETL-Pipeline
-Designed and implemented a Document Intelligence ETL pipeline in Python to extract, normalize, and structure legal citations and term–definition pairs from unstructured PDF documents using rule-based NLP and AI-assisted refinement, producing production-ready JSON outputs.
+
+This project implements a complete ETL (Extract–Transform–Load) pipeline for processing 15 Government PDF documents. It extracts citations, terms, definitions, canonicalizes legal document titles, applies a non-deterministic AI refinement, and outputs a final structured dataset.
